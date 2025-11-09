@@ -4,6 +4,7 @@
 To create a BMI calculator using React Router
 
 ## ALGORITHM
+
 ### STEP 1 State Initialization
 Manage the current page (Home or Calculator) using React Router.
 
